@@ -15,6 +15,16 @@ The zombies also make a groaning sound when near the player. And there's a backg
 ### Graphics
 <img width="1909" height="1072" alt="image" src="https://github.com/user-attachments/assets/dfa0af46-1a10-4106-948e-f128a87e3430" />
 
+<img width="1875" height="1030" alt="image" src="https://github.com/user-attachments/assets/b8f721ea-21e4-4c22-b3ed-a992710c7e11" />
+
+<img width="1917" height="1003" alt="image" src="https://github.com/user-attachments/assets/62b5ab8d-2f5a-4210-a3b8-7566b1057b8e" />
+
+## You Can Go on Ladder to save yourself
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/b26a6892-b017-4588-b4cf-d4454efafde9" />
+
+<img width="1909" height="1011" alt="image" src="https://github.com/user-attachments/assets/eddda167-39b7-410d-9b44-fc0a2d0aa83a" />
+
+<img width="1830" height="947" alt="image" src="https://github.com/user-attachments/assets/42742129-86d3-4b2f-b01d-7ade267b89e5" />
 
 <img width="1898" height="978" alt="image" src="https://github.com/user-attachments/assets/e72d52f6-b28e-4263-a30a-ef37a0e9d9ae" />
 
